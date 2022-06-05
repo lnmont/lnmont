@@ -1,7 +1,7 @@
 
 # Luan Monteiro 👋🏻
 <a href="https://github.com/lnmont" target="_blank">
-https://img.shields.io/github/followers/lnmont?label=lnmont&style=social
+<img src="https://img.shields.io/github/followers/lnmont?label=lnmont&style=social" />
 </a>
 <a href="https://www.instagram.com/ln.mont/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
