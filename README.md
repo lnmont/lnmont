@@ -1,7 +1,7 @@
 
 # Luan Monteiro 👋🏻
 <a href="https://www.instagram.com/ln.mont/" target="_blank">
-  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 Fullstack developer for over 6 years.
