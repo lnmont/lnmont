@@ -1,8 +1,3 @@
-<p align="center">
-<img src="https://i.imgur.com/hMnkZlF.png" />
-</p>
-
-
 # Luan Monteiro 👋🏻
 <a href="https://github.com/lnmont" target="_blank">
 <img src="https://img.shields.io/github/followers/lnmont?label=lnmont&style=social" />
