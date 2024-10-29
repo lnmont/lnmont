@@ -14,9 +14,9 @@
 </a>
 
 
-Fullstack developer for over 6 years.
+Fullstack developer for over 10 years.
 
-Adventurer in the world of Frontend
+Adventurer in the world of Full Stack Developer Javascript
 
 I am currently a developer of tools for the sports universe and a great enthusiast in the world of education.
 
